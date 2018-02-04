@@ -1,0 +1,16 @@
+*.db
+.DS_Store
+target/
+.settings/
+nb-configuration.xml
+src/main/webapp/WEB-INF/classes/
+.idea/
+*.iml
+**/**/*.iml
+.classpath
+.project
+.gradle/
+build/
+classes/
+**/web.xml
+**/log4j.properties
